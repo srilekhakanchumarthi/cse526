@@ -4,6 +4,7 @@ public class sri {
 
 	public static void main(String[] args) {
 		System.out.println("welcome to DevOps");
+		System.out.println("welcome to CSE");
 
 	}
 
